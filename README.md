@@ -79,5 +79,5 @@ Suspicious log entries during unusual hours (00:00–05:00):
 ## 📬 Contact
 
 **Lidor Sanker**  
-📧 lidor.email@example.com  
+📧 lidor7776@gmail.com  
 🔗 [https://linkedin.com/in/lidorsanker](https://linkedin.com/in/lidorsanker) | [https://github.com/lidor7776](https://github.com/lidor7776)
