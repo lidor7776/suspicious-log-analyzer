@@ -1,0 +1,9 @@
+Suspicious IPs (3+ failed logins in <5 min):
+- 194.67.82.4 | Attempts: 3 | Range: 0 days 00:00:58
+
+Suspicious log entries during unusual hours (00:00–05:00):
+2025-06-25 02:15:32 | john | login_failed | 194.67.82.4
+2025-06-25 02:15:40 | john | login_failed | 194.67.82.4
+2025-06-25 02:16:01 | john | login_success | 194.67.82.4
+2025-06-25 02:16:30 | john | login_failed | 194.67.82.4
+2025-06-25 03:02:12 | alice | login_failed | 22.1.1.1
